@@ -1,6 +1,6 @@
 How to run Tools---
 
-simple Type ( Python server.py  )
+simple Type ( Python3 server.py  )
 
 
 Note :- Must Be write full Address of Website 
